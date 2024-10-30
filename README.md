@@ -13,7 +13,5 @@ Hi, I'm Merugu Varun, an aspiring software developer based in Hyderabad. I am pu
 ![](https://github-readme-stats.vercel.app/api?username=slvarun&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slvarun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
