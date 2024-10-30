@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Merugu Varun from Hyderabad, Telangana. I hold a B.Tech in Artificial Intelligence and Machine Learning. I recently completed a job simulation in data analytics at Quantium, where I developed skills in data preparation and customer insights.<br>I'm proficient in Python, Java, and various frameworks like Flask and React. I enjoy problem-solving, have solved over 250 DSA problems, and have a passion for sports, being a silver medalist in Tae Kwon Do. In my free time, I love swimming and playing video games.
+Hi, I'm Merugu Varun, an aspiring software developer based in Hyderabad. I am pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning and have hands-on experience in various tech stacks, primarily focusing on web development and data analytics. I am passionate about leveraging technology to solve real-world problems and continually seek opportunities to grow my skills.
 
 
 ## 🌐 Socials:
